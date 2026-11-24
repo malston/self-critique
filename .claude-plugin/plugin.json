@@ -1,1 +1,7 @@
-{ "name": "self-critique", "version": "0.1.0", "description": "/critique opens a pane that reviews Claude's last response, with one-click fixes", "types": "./types/index.d.ts" }
+{
+  "name": "self-critique",
+  "version": "0.1.0",
+  "description": "/critique opens a pane that reviews Claude's last response, with one-click fixes",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
